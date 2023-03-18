@@ -32,3 +32,6 @@ I'm a Data Science fresher with a passion for exploring and analyzing data. I ha
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftabbs&layout=compact)](https://github.com/DarkSharkAsh/github-readme-stats)
 
 
+
+
+![snake gif](https://github.com/Aftabbs/Aftabbs/blob/output/github-contribution-grid-snake.gif)
