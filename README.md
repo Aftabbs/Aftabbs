@@ -8,9 +8,12 @@ I'm @Aftab,
  
 I'm a Data Science fresher with a passion for exploring and analyzing data. I have experience with Python, SQL, EDA, Statistics, Machine Learning, Visualization (Tableau, PowerBI), Natural Language Processing, and Git. I'm always eager to learn and grow as a data scientist, and I'm excited about the possibilities of using data to solve real-world problems.
 
+## Portfolio
+<a href="https://aftabdatascienceportfolio.netlify.app/">Portfolio</a>
 
 
-## My Skills
+
+## Skills
 
 <div style="display:flex;justify-content:center;">
   <img src="https://img.icons8.com/color/1x/python.png" alt="Python" style="margin-right: 20px" title='Python';">
@@ -23,13 +26,13 @@ I'm a Data Science fresher with a passion for exploring and analyzing data. I ha
 </div>
 
 
-## My GitHub Stats
+## GitHub Stats
 
 ![DarkSharkAsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aftabbs&&count_private=true&show_icons=true&theme=dark)
 
 
 ## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftabbs&layout=compact)](https://github.com/DarkSharkAsh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftabbs&layout=compact)](https://github.com/Aftabbs/github-readme-stats)
 
 
 
