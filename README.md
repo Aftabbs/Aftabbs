@@ -27,7 +27,7 @@ I'm a Data Science fresher with a passion for exploring and analyzing data. I ha
 
 
 ## GitHub Stats
-
+![](https://komarev.com/ghpvc/?username=Aftabbs&color=dc143c&label=PROFILE+VIEWS)
 ![DarkSharkAsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aftabbs&&count_private=true&show_icons=true&theme=dark)
 
 
