@@ -4,7 +4,10 @@
 I'm @Aftab,
 - 👀 I work on Machine Learning,Statistics,NLP,EDA.
 - 📫 How to reach me   <a href="https://www.linkedin.com/in/mohammed-aftab-bs-526b7a257/"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="30"></a>
- 
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Aftabbs&style=for-the-badge">
+</a>
  
 I'm a Data Science fresher with a passion for exploring and analyzing data. I have experience with Python, SQL, EDA, Statistics, Machine Learning, Visualization (Tableau, PowerBI), Natural Language Processing, and Git. I'm always eager to learn and grow as a data scientist, and I'm excited about the possibilities of using data to solve real-world problems.
 
@@ -27,7 +30,6 @@ I'm a Data Science fresher with a passion for exploring and analyzing data. I ha
 
 
 ## GitHub Stats
-![](https://komarev.com/ghpvc/?username=Aftabbs&color=dc143c&label=PROFILE+VIEWS)
 ![DarkSharkAsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aftabbs&&count_private=true&show_icons=true&theme=dark)
 
 
