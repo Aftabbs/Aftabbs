@@ -9,7 +9,7 @@ I'm @Aftab,
     <img src="https://komarev.com/ghpvc/?username=Aftabbs&style=for-the-badge">
 </a>
  
-I'm a Data Science Enthusiast with a passion for exploring and analyzing data. I have experience with Python, SQL, EDA, Statistics, Machine Learning, Visualization (Tableau, PowerBI), Natural Language Processing,Deep Learning and Git. I'm always eager to learn and grow as a data scientist, and I'm excited about the possibilities of using data to solve real-world problems.
+I'm a Data Scientist with a passion for exploring and analyzing data. I have experience with Python, SQL, EDA, Statistics, Machine Learning, Visualization (Tableau, PowerBI), Natural Language Processing,Deep Learning and Git. I'm always eager to learn and grow as a data scientist, and I'm excited about the possibilities of using data to solve real-world problems.
 
 ## Portfolio
 <a href="https://aftabdatascienceportfolio.netlify.app/">Portfolio</a>
