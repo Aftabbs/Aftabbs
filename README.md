@@ -2,14 +2,14 @@
 # Hi there 👋
 
 I'm @Aftab,
-- 👀 I work on Machine Learning,Statistics,NLP,Deep Learning,EDA.
+- 👀 I specialize in Machine Learning, Statistics, NLP, Deep Learning, AWS, and Generative AI, driving comprehensive data analysis and solutions.
 - 📫 How to reach me   <a href="https://www.linkedin.com/in/mohammed-aftab-bs-526b7a257/"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="30"></a>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Aftabbs&style=for-the-badge">
 </a>
  
-I'm a Data Science Practitioner with a passion for exploring and analyzing data. I have experience with Python, R, SQL, EDA, Statistics, Machine Learning, Visualization (Tableau, PowerBI), Natural Language Processing,Deep Learning and Git. I'm always eager to learn and grow as a data scientist, and I'm excited about the possibilities of using data to solve real-world problems.
+With learning expertise in Python, R, SQL, EDA, Statistics, Machine Learning, Visualization , Natural Language Processing, and Deep Learning, I specialize in exploring and analyzing data to create meaningful insights. My experience extends to utilizing AWS for cloud computing, leveraging LLMs (Large Language Models) for advanced natural language processing tasks, and applying Generative AI for innovative data solutions. I am committed to leveraging cutting-edge AI technologies to develop impactful solutions and address real-world challenges. Continuously learning and adopting new technologies, I strive to stay at the forefront of data-driven innovation.
 
 ## Portfolio
 <a href="https://aftabdatascienceportfolio.netlify.app/">Portfolio</a>
