@@ -37,6 +37,3 @@ With learning expertise in Python, R, SQL, EDA, Statistics, Machine Learning, Vi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftabbs&layout=compact)](https://github.com/Aftabbs/github-readme-stats)
 
 
-
-
-![snake gif](https://github.com/Aftabbs/Aftabbs/blob/output/github-contribution-grid-snake.gif)
