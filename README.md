@@ -9,7 +9,7 @@ I'm @Aftab,
     <img src="https://komarev.com/ghpvc/?username=Aftabbs&style=for-the-badge">
 </a>
  
-With learning expertise in Python, R, SQL, EDA, Statistics, Machine Learning, Visualization , Natural Language Processing, and Deep Learning, I specialize in exploring and analyzing data to create meaningful insights. My experience extends to utilizing AWS for cloud computing, leveraging LLMs (Large Language Models) for advanced natural language processing tasks, and applying Generative AI for innovative data solutions. I am committed to leveraging cutting-edge AI technologies to develop impactful solutions and address real-world challenges. Continuously learning and adopting new technologies, I strive to stay at the forefront of data-driven innovation.
+With learning expertise in Python, R, SQL, EDA, Statistics, Machine Learning, Visualization tools , Natural Language Processing, and Deep Learning, I specialize in exploring and analyzing data to create meaningful insights. My experience extends to utilizing AWS for cloud computing, leveraging LLMs (Large Language Models) for advanced natural language processing tasks, and applying Generative AI for innovative data solutions. I am committed to leveraging cutting-edge AI technologies to develop impactful solutions and address real-world challenges. Continuously learning and adopting new technologies, I strive to stay at the forefront of data-driven innovation.
 
 ## Portfolio
 <a href="https://aftabdatascienceportfolio.netlify.app/">Portfolio</a>
