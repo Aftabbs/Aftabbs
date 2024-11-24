@@ -26,7 +26,10 @@ With learning expertise in Python, R, SQL, EDA, Statistics, Machine Learning, Vi
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/stats-6344402-5233383.png?f=avif&w=256" alt="Statistics" style="margin-right: 20px;width:95px;height:60px;width:90px;title:statistics" title='Statistics'>
   <img src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" alt="Git" style="margin-right: 20px;width:85px;height:60px" title='Git'>
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/natural-language-processing-nlp-5180300-4320747.png?f=avif&w=256" alt="NLP" style="margin-right: 20px;width:70px;height:60px" title='Natural Language Processing'>
+<img src="![image](https://github.com/user-attachments/assets/a1698e22-b6ac-4530-adbb-dde8f1556563)?f=avif&w=256" alt="NLP" style="margin-right: 20px;width:70px;height:60px" title='Large Language Models'>    
 </div>
+
+
 
 
 <a><h2>Stats</h2></a>
