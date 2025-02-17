@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm @Aftab, a passionate developer and data scientist with expertise in Machine Learning, Statistics, NLP, Deep Learning, AWS, and Generative AI. I enjoy driving comprehensive data analysis and creating innovative solutions.
+I'm @Aftab, a passionate data scientist and developer with expertise in Machine Learning, Statistics, NLP, Deep Learning, AWS, and Generative AI. I enjoy driving comprehensive data analysis and creating innovative solutions.
 
 - 👀 I work on Machine Learning, Statistics, NLP, Deep Learning, AWS, and Generative AI, driving comprehensive data analysis and solutions.
 - 📫 How to reach me: 
