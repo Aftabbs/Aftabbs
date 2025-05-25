@@ -1,4 +1,4 @@
-Loading............
+:)
 
   <a href="https://www.linkedin.com/in/mohammed-aftab-bs-526b7a257/">
     <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="30">
