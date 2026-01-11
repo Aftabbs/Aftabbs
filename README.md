@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-A855F7?style=for-the-badge)](https://aftab-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-A855F7?style=for-the-badge)](https://aftab-portfolio-01.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-aftab-526b7a257/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@aftab001x)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:aftab001x@gmail.com)
@@ -434,7 +434,7 @@ Contributing to the AI community
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aftab-526b7a257/)
 [![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aftab001x)
 [![Email](https://img.shields.io/badge/Email-aftab001x@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aftab001x@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-A855F7?style=for-the-badge)](https://aftab-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-A855F7?style=for-the-badge)](https://aftab-portfolio-01.netlify.app/)
 
 <br>
 
