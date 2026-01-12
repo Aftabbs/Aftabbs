@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Welcome to My AI Engineering Lab
+# Welcome to My AI Engineering Lab
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+LLM+Architect;Building+Intelligent+Multi-Agent+Systems;RAG+%7C+LangChain+%7C+LangGraph+Expert;MCP+%7C+A2A+Protocol+Pioneer;Open+Source+Contributor+%40+Microsoft" alt="Typing SVG" />
 
