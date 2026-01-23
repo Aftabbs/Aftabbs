@@ -2,7 +2,7 @@
 
 # Welcome to My AI Engineering Lab
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+LLM+Architect;Building+Intelligent+Multi-Agent+Systems;RAG+%7C+LangChain+%7C+LangGraph+Expert;MCP+%7C+A2A+Protocol+Pioneer;Open+Source+Contributor+%40+Microsoft" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+LLM+Architect;Building+Intelligent+Multi-Agent+Systems;RAG+%7C+LangChain+%7C+LangGraph;MCP+%7C+A2A+Protocol;Open+Source+Contributor+%40+Microsoft" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -272,7 +272,7 @@ print(aftab.current_focus)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -295,7 +295,7 @@ print(aftab.current_focus)
 </td>
 <td width="50%">
 
-### 🤖 Multi-Agent Orchestration
+###  Multi-Agent Orchestration
 **LangGraph-powered agent systems**
 
 - ✅ Autonomous task decomposition
@@ -312,7 +312,7 @@ print(aftab.current_focus)
 <tr>
 <td width="50%">
 
-### 🔍 Advanced RAG Systems
+###  Advanced RAG Systems
 **Context-aware AI applications**
 
 - ✅ Multi-vector retrieval strategies
@@ -343,13 +343,13 @@ print(aftab.current_focus)
 </tr>
 </table>
 
-**🔥 [View All Projects →](https://github.com/Aftabbs?tab=repositories)**
+** [View All Projects →](https://github.com/Aftabbs?tab=repositories)**
 
 </div>
 
 ---
 
-## 💭 Philosophy & Approach
+## Philosophy & Approach
 
 <div align="center">
 
@@ -361,7 +361,7 @@ print(aftab.current_focus)
 
 <div align="center">
 
-### 🎯 Core Values
+###  Core Values
 
 <table>
 <tr>
@@ -396,7 +396,7 @@ Contributing to the AI community
 
 ---
 
-## 🤝 Let's Collaborate!
+##  Let's Collaborate!
 
 <div align="center">
 
@@ -410,14 +410,14 @@ Contributing to the AI community
 <tr>
 <td align="center">
 
-### 💡 Open to Collaborating On
+###  Open to Collaborating On
 
-- 🤖 **Multi-agent AI systems** & orchestration
-- 🔍 **RAG applications** & optimization
-- 🔌 **MCP & A2A** protocol implementations
-- ☁️ **Cloud-native AI** architectures
-- 🏗️ **Production AI** solutions at scale
-- 📖 **Open source** AI/ML projects
+- **Multi-agent AI systems** & orchestration
+- **RAG applications** & optimization
+- **MCP & A2A** protocol implementations
+- **Cloud-native AI** architectures
+- **Production AI** solutions at scale
+- **Open source** AI/ML projects
 
 </td>
 </tr>
@@ -429,7 +429,7 @@ Contributing to the AI community
 
 <br>
 
-### 📫 Reach Me
+### Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aftab-526b7a257/)
 [![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aftab001x)
@@ -455,7 +455,5 @@ Contributing to the AI community
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
-
-**Built with 🤖 AI, ☁️ Cloud, and ❤️ Code**
 
 </div>
