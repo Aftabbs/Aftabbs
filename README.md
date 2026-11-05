@@ -1,6 +1,6 @@
 ## Hi, I'm Aftab 👋
 
-**Senior AI Engineer at Tiger Analytics (Bengaluru).** I build production AI that enterprises can trust: agents that plan and act, retrieval grounded in real data, and the guardrails, evaluation and tracing that make them safe to ship.
+I build production AI that enterprises can trust: agents that plan and act, retrieval grounded in real data, and the guardrails, evaluation and tracing that make them safe to ship.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Aftab-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aftab-526b7a257/)
 [![X](https://img.shields.io/badge/X-@BsAftab-000000?logo=x&logoColor=white)](https://x.com/BsAftab)
